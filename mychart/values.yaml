@@ -1,5 +1,5 @@
 replicaCount: 5
 image:
-  repository: aranor104/ci_pipeline:10
+  repository: aranor104/ci_pipeline:14
 service:
   type: LoadBalancer
